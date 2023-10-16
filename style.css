@@ -23,4 +23,6 @@ nav {
 
 .caixa {
   width: 940px;
+  position: relative;
+  margin: 0 auto;
 }
