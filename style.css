@@ -1,5 +1,6 @@
 header {
   background: #BBBBBB;
+  padding:20px;
 }
 
 nav li {
@@ -17,7 +18,7 @@ nav a {
 
 nav {
   position:absolute;
-  top: 0;
+  top: 110px;
   right: 0;
 }
 
@@ -25,4 +26,10 @@ nav {
   width: 940px;
   position: relative;
   margin: 0 auto;
+}
+
+.produtos {
+  width: 940px;
+  margin: 0 auto;
+  padding: 50px 0;
 }
